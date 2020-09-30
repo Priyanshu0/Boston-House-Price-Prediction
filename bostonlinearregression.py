@@ -1,9 +1,9 @@
 # Multiple Linear Regression
 
 # Importing the libraries
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
+import numpy as np #For working with arrays
+import matplotlib.pyplot as plt #For plotting
+import pandas as pd #For dataframes
 
 # Importing the dataset
 dataset = pd.read_csv('Downloads/boston.csv')
